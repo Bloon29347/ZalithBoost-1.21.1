@@ -29,7 +29,7 @@ jobs:
 
       - name: Descomprimir proyecto
         run: |
-          unzip ZalithBoost-1.21.1-v11-diagnostico-mods.zip -d source
+          unzip ZalithBoost-1.21.1-v12-POCO-X6.zip -d source
 
       - name: Buscar proyecto
         run: |
