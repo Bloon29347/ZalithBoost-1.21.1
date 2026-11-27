@@ -29,7 +29,7 @@ jobs:
 
       - name: Descomprimir proyecto
         run: |
-          unzip -q ZalithBoost-1.21.1-source-v4-portado.zip -d source
+          unzip ZalithBoost-1.21.1-source-v7-optimizacion-interna.zip -d source
 
       - name: Buscar proyecto
         run: |
